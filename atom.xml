@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>镡乐Blog</title>
   
   
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="ztblog.%E7%BD%91%E5%9D%80/"/>
   <updated>2021-01-16T08:06:50.793Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>ztblog.%E7%BD%91%E5%9D%80/</id>
   
   <author>
-    <name>Yue_plus</name>
+    <name>Tanle·Chen</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>post title</title>
-    <link href="http://yoursite.com/2021/01/16/post-title/"/>
-    <id>http://yoursite.com/2021/01/16/post-title/</id>
+    <link href="2021/01/16/post-title/"/>
+    <id>2021/01/16/post-title/</id>
     <published>2021-01-16T07:13:40.000Z</published>
     <updated>2021-01-16T08:06:50.793Z</updated>
     
@@ -43,8 +43,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2021/01/15/hello-world/"/>
-    <id>http://yoursite.com/2021/01/15/hello-world/</id>
+    <link href="2021/01/15/hello-world/"/>
+    <id>2021/01/15/hello-world/</id>
     <published>2021-01-15T12:57:30.584Z</published>
     <updated>2021-01-15T12:57:30.584Z</updated>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>[活动预告]SideStory「火蓝之心」复刻活动开启</title>
-    <link href="http://yoursite.com/2020/07/15/news/"/>
-    <id>http://yoursite.com/2020/07/15/news/</id>
+    <link href="2020/07/15/news/"/>
+    <id>2020/07/15/news/</id>
     <published>2020-07-15T00:45:16.000Z</published>
     <updated>2020-08-16T07:18:44.015Z</updated>
     
@@ -75,17 +75,17 @@
     
     
     
-    <category term="活动" scheme="http://yoursite.com/categories/%E6%B4%BB%E5%8A%A8/"/>
+    <category term="活动" scheme="categories/活动/"/>
     
     
-    <category term="Arknights" scheme="http://yoursite.com/tags/Arknights/"/>
+    <category term="Arknights" scheme="tags/Arknights/"/>
     
   </entry>
   
   <entry>
     <title>kotlin 基本类型</title>
-    <link href="http://yoursite.com/2020/07/14/kotlin-basic-types/"/>
-    <id>http://yoursite.com/2020/07/14/kotlin-basic-types/</id>
+    <link href="2020/07/14/kotlin-basic-types/"/>
+    <id>2020/07/14/kotlin-basic-types/</id>
     <published>2020-07-14T00:34:40.000Z</published>
     <updated>2020-07-21T05:43:07.137Z</updated>
     
@@ -101,8 +101,8 @@
   
   <entry>
     <title>ロドス・アイランド</title>
-    <link href="http://yoursite.com/2020/04/19/nihonngo/"/>
-    <id>http://yoursite.com/2020/04/19/nihonngo/</id>
+    <link href="2020/04/19/nihonngo/"/>
+    <id>2020/04/19/nihonngo/</id>
     <published>2020-04-19T03:30:05.000Z</published>
     <updated>2020-07-21T05:43:07.140Z</updated>
     
@@ -118,8 +118,8 @@
   
   <entry>
     <title>Hello World !</title>
-    <link href="http://yoursite.com/2020/04/15/helloworld/"/>
-    <id>http://yoursite.com/2020/04/15/helloworld/</id>
+    <link href="2020/04/15/helloworld/"/>
+    <id>2020/04/15/helloworld/</id>
     <published>2020-04-15T13:54:02.000Z</published>
     <updated>2020-07-21T05:43:07.136Z</updated>
     
@@ -131,17 +131,17 @@
     
     
     
-    <category term="Example" scheme="http://yoursite.com/categories/Example/"/>
+    <category term="Example" scheme="categories/Example/"/>
     
     
-    <category term="code" scheme="http://yoursite.com/tags/code/"/>
+    <category term="code" scheme="tags/code/"/>
     
   </entry>
   
   <entry>
     <title>Markdown 教程</title>
-    <link href="http://yoursite.com/2020/04/15/markdown/"/>
-    <id>http://yoursite.com/2020/04/15/markdown/</id>
+    <link href="2020/04/15/markdown/"/>
+    <id>2020/04/15/markdown/</id>
     <published>2020-04-14T16:58:59.000Z</published>
     <updated>2020-08-16T07:40:05.481Z</updated>
     
@@ -154,17 +154,17 @@
     
     
     
-    <category term="教程" scheme="http://yoursite.com/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="categories/教程/"/>
     
     
-    <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+    <category term="Markdown" scheme="tags/Markdown/"/>
     
   </entry>
   
   <entry>
     <title>这是一篇拥有很长目录的文章</title>
-    <link href="http://yoursite.com/2020/04/12/longindex/"/>
-    <id>http://yoursite.com/2020/04/12/longindex/</id>
+    <link href="2020/04/12/longindex/"/>
+    <id>2020/04/12/longindex/</id>
     <published>2020-04-11T16:04:40.000Z</published>
     <updated>2020-07-21T05:43:07.137Z</updated>
     
@@ -175,17 +175,17 @@
     
     
     
-    <category term="Example" scheme="http://yoursite.com/categories/Example/"/>
+    <category term="Example" scheme="categories/Example/"/>
     
     
-    <category term="long" scheme="http://yoursite.com/tags/long/"/>
+    <category term="long" scheme="tags/long/"/>
     
   </entry>
   
   <entry>
     <title>这是一段很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的文章</title>
-    <link href="http://yoursite.com/2020/04/11/longtext/"/>
-    <id>http://yoursite.com/2020/04/11/longtext/</id>
+    <link href="2020/04/11/longtext/"/>
+    <id>2020/04/11/longtext/</id>
     <published>2020-04-11T15:53:28.000Z</published>
     <updated>2020-07-21T05:43:07.138Z</updated>
     
@@ -196,17 +196,17 @@
     
     
     
-    <category term="Example" scheme="http://yoursite.com/categories/Example/"/>
+    <category term="Example" scheme="categories/Example/"/>
     
     
-    <category term="long" scheme="http://yoursite.com/tags/long/"/>
+    <category term="long" scheme="tags/long/"/>
     
   </entry>
   
   <entry>
     <title>Unix 时间</title>
-    <link href="http://yoursite.com/1970/01/01/unixtime/"/>
-    <id>http://yoursite.com/1970/01/01/unixtime/</id>
+    <link href="1970/01/01/unixtime/"/>
+    <id>1970/01/01/unixtime/</id>
     <published>1970-01-01T00:00:00.000Z</published>
     <updated>2020-07-21T05:43:07.140Z</updated>
     

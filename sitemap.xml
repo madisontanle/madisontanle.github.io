@@ -2,70 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2021/01/16/post-title/</loc>
+    <loc>about/index.html</loc>
     
     <lastmod>2021-01-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2021/01/15/hello-world/</loc>
+    <loc>2021/01/16/post-title/</loc>
+    
+    <lastmod>2021-01-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>2021/01/15/hello-world/</loc>
     
     <lastmod>2021-01-15</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/04/15/markdown/</loc>
+    <loc>2020/04/15/markdown/</loc>
     
     <lastmod>2020-08-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/07/15/news/</loc>
+    <loc>2020/07/15/news/</loc>
     
     <lastmod>2020-08-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/04/19/nihonngo/</loc>
+    <loc>2020/04/19/nihonngo/</loc>
     
     <lastmod>2020-07-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/1970/01/01/unixtime/</loc>
+    <loc>1970/01/01/unixtime/</loc>
     
     <lastmod>2020-07-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/04/11/longtext/</loc>
+    <loc>2020/04/11/longtext/</loc>
     
     <lastmod>2020-07-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/04/12/longindex/</loc>
+    <loc>2020/04/12/longindex/</loc>
     
     <lastmod>2020-07-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/07/14/kotlin-basic-types/</loc>
+    <loc>2020/07/14/kotlin-basic-types/</loc>
     
     <lastmod>2020-07-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/04/15/helloworld/</loc>
+    <loc>2020/04/15/helloworld/</loc>
     
     <lastmod>2020-07-21</lastmod>
     
@@ -73,7 +80,7 @@
   
 
   <url>
-    <loc>http://yoursite.com/</loc>
+    <loc>ztblog.%E7%BD%91%E5%9D%80</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -81,28 +88,28 @@
 
   
   <url>
-    <loc>http://yoursite.com/tags/code/</loc>
+    <loc>tags/code/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/long/</loc>
+    <loc>tags/long/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/Markdown/</loc>
+    <loc>tags/Markdown/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/Arknights/</loc>
+    <loc>tags/Arknights/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -111,21 +118,21 @@
 
   
   <url>
-    <loc>http://yoursite.com/categories/Example/</loc>
+    <loc>categories/Example/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/%E6%B4%BB%E5%8A%A8/</loc>
+    <loc>categories/%E6%B4%BB%E5%8A%A8/</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
