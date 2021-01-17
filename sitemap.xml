@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>about/index.html</loc>
+    <loc>http://example.com/news/</loc>
+    
+    <lastmod>2021-01-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index.html</loc>
     
     <lastmod>2021-01-16</lastmod>
     
   </url>
   
   <url>
-    <loc>2021/01/16/post-title/</loc>
+    <loc>http://example.com/2021/01/16/post-title/</loc>
     
     <lastmod>2021-01-16</lastmod>
     
   </url>
   
   <url>
-    <loc>2021/01/15/hello-world/</loc>
+    <loc>http://example.com/2021/01/15/hello-world/</loc>
     
     <lastmod>2021-01-15</lastmod>
     
   </url>
   
   <url>
-    <loc>2020/04/15/markdown/</loc>
+    <loc>http://example.com/2020/04/15/markdown/</loc>
     
     <lastmod>2020-08-16</lastmod>
     
   </url>
   
   <url>
-    <loc>2020/07/15/news/</loc>
-    
-    <lastmod>2020-08-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>2020/04/19/nihonngo/</loc>
+    <loc>http://example.com/2020/04/19/nihonngo/</loc>
     
     <lastmod>2020-07-21</lastmod>
     
   </url>
   
   <url>
-    <loc>1970/01/01/unixtime/</loc>
+    <loc>http://example.com/1970/01/01/unixtime/</loc>
     
     <lastmod>2020-07-21</lastmod>
     
   </url>
   
   <url>
-    <loc>2020/04/11/longtext/</loc>
+    <loc>http://example.com/2020/04/11/longtext/</loc>
     
     <lastmod>2020-07-21</lastmod>
     
   </url>
   
   <url>
-    <loc>2020/04/12/longindex/</loc>
+    <loc>http://example.com/2020/04/12/longindex/</loc>
     
     <lastmod>2020-07-21</lastmod>
     
   </url>
   
   <url>
-    <loc>2020/07/14/kotlin-basic-types/</loc>
+    <loc>http://example.com/2020/07/14/kotlin-basic-types/</loc>
     
     <lastmod>2020-07-21</lastmod>
     
   </url>
   
   <url>
-    <loc>2020/04/15/helloworld/</loc>
+    <loc>http://example.com/2020/04/15/helloworld/</loc>
     
     <lastmod>2020-07-21</lastmod>
     
@@ -80,7 +80,7 @@
   
 
   <url>
-    <loc>ztblog.%E7%BD%91%E5%9D%80</loc>
+    <loc>http://example.com/</loc>
     <lastmod>2021-01-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -88,28 +88,28 @@
 
   
   <url>
-    <loc>tags/code/</loc>
+    <loc>http://example.com/tags/code/</loc>
     <lastmod>2021-01-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>tags/long/</loc>
+    <loc>http://example.com/tags/long/</loc>
     <lastmod>2021-01-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>tags/Markdown/</loc>
+    <loc>http://example.com/tags/Markdown/</loc>
     <lastmod>2021-01-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>tags/Arknights/</loc>
+    <loc>http://example.com/tags/Arknights/</loc>
     <lastmod>2021-01-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -118,21 +118,21 @@
 
   
   <url>
-    <loc>categories/Example/</loc>
+    <loc>http://example.com/categories/Example/</loc>
     <lastmod>2021-01-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://example.com/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2021-01-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>categories/%E6%B4%BB%E5%8A%A8/</loc>
+    <loc>http://example.com/categories/%E6%B4%BB%E5%8A%A8/</loc>
     <lastmod>2021-01-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

@@ -3,14 +3,14 @@
   <title>镡乐Blog</title>
   
   
-  <link href="atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="ztblog.%E7%BD%91%E5%9D%80/"/>
+  <link href="http://example.com/"/>
   <updated>2021-01-16T08:06:50.793Z</updated>
-  <id>ztblog.%E7%BD%91%E5%9D%80/</id>
+  <id>http://example.com/</id>
   
   <author>
-    <name>Tanle·Chen</name>
+    <name>Tanle</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>post title</title>
-    <link href="2021/01/16/post-title/"/>
-    <id>2021/01/16/post-title/</id>
+    <link href="http://example.com/2021/01/16/post-title/"/>
+    <id>http://example.com/2021/01/16/post-title/</id>
     <published>2021-01-16T07:13:40.000Z</published>
     <updated>2021-01-16T08:06:50.793Z</updated>
     
@@ -43,8 +43,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="2021/01/15/hello-world/"/>
-    <id>2021/01/15/hello-world/</id>
+    <link href="http://example.com/2021/01/15/hello-world/"/>
+    <id>http://example.com/2021/01/15/hello-world/</id>
     <published>2021-01-15T12:57:30.584Z</published>
     <updated>2021-01-15T12:57:30.584Z</updated>
     
@@ -62,30 +62,30 @@
   </entry>
   
   <entry>
-    <title>[活动预告]SideStory「火蓝之心」复刻活动开启</title>
-    <link href="2020/07/15/news/"/>
-    <id>2020/07/15/news/</id>
-    <published>2020-07-15T00:45:16.000Z</published>
-    <updated>2020-08-16T07:18:44.015Z</updated>
+    <title>[活动预告] 危机合约 #4 赛季「铅封行动」即将开启</title>
+    <link href="http://example.com/news/"/>
+    <id>http://example.com/news/</id>
+    <published>2021-01-13T20:00:00.000Z</published>
+    <updated>2021-01-17T08:20:07.815Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://ak.hypergryph.com/upload/images/20200806/485e1a6d2433a0356bb56663de322d1f.jpg" alt="img"></p><a id="more"></a><p><img src="https://ak.hypergryph.com/upload/images/20200806/485e1a6d2433a0356bb56663de322d1f.jpg" alt="img"></p><h2 id="一、「火蓝之心」复刻，活动关卡限时开启"><a href="#一、「火蓝之心」复刻，活动关卡限时开启" class="headerlink" title="一、「火蓝之心」复刻，活动关卡限时开启"></a><strong>一、「火蓝之心」复刻，活动关卡限时开启</strong></h2><p><strong>活动时间：</strong>08月11日16:00 - 8月25日03:59</p><p><strong>活动说明：</strong>活动期间将开放「火蓝之心」活动关卡，玩家可通过活动关卡作战、完成活动里程碑以及活动商店获取相关活动奖励</p><p><strong>解锁条件：</strong>通关主线1-10</p><p><strong>活动关卡开放时间：</strong></p><p>◆【主舞台】:08月11日16:00 - 8月21日03:59</p><p>◆【嘉年华】:08月11日16:00 - 8月21日03:59</p><p>◆【额外节目】:08月11日16:00 - 8月21日03:59</p><p><strong>关卡消耗：</strong></p><p>◆【主舞台】：消耗「理智」进入</p><p>◆【嘉年华】：消耗「黑曜石节门票」进入</p><p>◆【额外节目】：消耗「理智」进入</p><p><strong>关卡主要掉落：</strong></p><p>◆【主舞台】：「汐斯塔的黑曜石」、「黑曜石节门票」</p><p>◆【嘉年华】：「黑曜石节抽奖代币」</p><p><em>首次通关活动关卡【OF-4】可获得活动干员【 **</em>★★★★★：锡兰*** 】</p><p><strong>复刻说明：</strong></p><p>◆本次复刻活动关卡将继承玩家此前的活动关卡进度及首次掉落进度</p><p>◆本次复刻活动中部分无法重复获得的活动奖励将在重复获得时按照对应比例兑换为【情报凭证】， 【情报凭证】兑换比例可参照活动中相应【情报凭证转换规则】</p><p>◆转换后的【情报凭证】可在凭证商店的【情报凭证区】进行兑换</p><p>◆本次活动关卡开放期间【棘刺】、【安哲拉】 、【孑】、【黑】、【锡兰】、【格劳克斯】、【苏苏洛】信赖获取提升</p><p><img src="https://ak-fs.hypergryph.com/announce/images/20200806/54026a4e30e9088b75bab528b2bb6413.jpg" alt="img"></p><h2 id="二、奖励扭蛋机开启"><a href="#二、奖励扭蛋机开启" class="headerlink" title="二、奖励扭蛋机开启"></a><strong>二、奖励扭蛋机开启</strong></h2><p><strong>开放时间：</strong>08月11日16:00 - 08月25日03:59</p><p><strong>活动说明：</strong>活动期间，玩家通过活动关卡等获取「黑曜石节抽奖代币」。消耗「黑曜石节抽奖代币」可在扭蛋机内抽取活动奖励</p><p><strong>主要奖励：</strong>【锡兰】信物、活动家具（部分）、寻访凭证、龙门币、作战记录、高级素材等</p><p><img src="https://ak.hypergryph.com/upload/images/20200806/2cba008a0dba888e66ade8d81b0cc1ad.jpg" alt="img"></p><h2 id="三、收集「汐斯塔的黑曜石」，获取限定奖励"><a href="#三、收集「汐斯塔的黑曜石」，获取限定奖励" class="headerlink" title="三、收集「汐斯塔的黑曜石」，获取限定奖励"></a><strong>三、收集「汐斯塔的黑曜石」，获取限定奖励</strong></h2><p><strong>活动时间：</strong>08月11日16:00 - 08月25日03:59</p><p><strong>活动说明：</strong>活动期间，玩家可通过活动收集「汐斯塔的黑曜石」完成活动任务里程碑，达成相关收集数量可获取对应奖励</p><p><strong>主要奖励：</strong></p><p>◆ <strong><em>珊瑚海岸系列 -“悠然假日” HDm06-安赛尔</em></strong></p><p>◆「黑曜石节门票」、「黑曜石节抽奖代币」、活动家具（部分）、作战记录、高级素材等</p><p><img src="https://ak-fs.hypergryph.com/announce/images/20200806/16336bfb87b3d6bf46c3ff7921a1bf59.jpg" alt="img"></p><h2 id="四、【不羁逆流】限时寻访开启"><a href="#四、【不羁逆流】限时寻访开启" class="headerlink" title="四、【不羁逆流】限时寻访开启"></a><strong>四、【不羁逆流】限时寻访开启</strong></h2><p><strong>活动时间：</strong>08月11日16:00 - 08月25日03:59</p><p><strong>活动说明：</strong>活动期间【不羁逆流】限时寻访开启，该寻访中以下干员出现率上升：</p><p><strong><em>★★★★★★：棘刺</em></strong>（占6★出率的50%）</p><p><strong><em>★★★★★：安哲拉</em></strong> / <strong><em>普罗旺斯</em></strong>（占5★出率的50%）</p><p><strong><em>★★★★：孑</em></strong>（占4★出率的20%）</p><p>注意：本次活动【不羁逆流】寻访为【标准寻访】</p><p><img src="https://ak-fs.hypergryph.com/announce/images/20200806/6d604290b2426555f32c9b799618117b.jpg" alt="img"></p><h2 id="五、新干员登场，【标准寻访】常驻"><a href="#五、新干员登场，【标准寻访】常驻" class="headerlink" title="五、新干员登场，【标准寻访】常驻"></a><strong>五、新干员登场，【标准寻访】常驻</strong></h2><p><strong>新增干员：</strong>以下新增干员除加入【不羁逆流】寻访外，将在08月20日04:00后加入并常驻其余【标准寻访】卡池</p><p><strong><em>★★★★★★：棘刺</em></strong></p><p><strong><em>★★★★★：安哲拉</em></strong></p><p><strong><em>★★★★：孑</em></strong></p><p>注意：干员【锡兰】仅在「火蓝之心」活动中获取，暂不加入【不羁逆流】及任何【标准寻访】</p><p><img src="https://ak-fs.hypergryph.com/announce/images/20200806/93c68f25384edee1ad0e96df549280be.jpg" alt="img"></p><h2 id="六、【珊瑚海岸】系列，限时复刻"><a href="#六、【珊瑚海岸】系列，限时复刻" class="headerlink" title="六、【珊瑚海岸】系列，限时复刻"></a><strong>六、【珊瑚海岸】系列，限时复刻</strong></h2><p><strong>活动时间：</strong>08月11日16:00 - 08月25日03:59</p><p><strong>活动说明：</strong>活动期间以下干员时装将在时装商店上架并进行限时贩售</p><p>◆**<em>[珊瑚海岸]系列-静谧午夜 DN02-闪灵【复刻】**</em></p><p>◆**<em>[珊瑚海岸]系列-温差 RT.RX01-天火【复刻】**</em></p><p>◆**<em>[珊瑚海岸]系列-夏卉 FA011-古米【复刻】**</em></p><p><img src="https://ak-fs.hypergryph.com/announce/images/20200806/1ced49c1c87d6ced34d5bdf8e8c0e033.jpg" alt="img"></p><h2 id="七、【珊瑚海岸】系列，新装上架"><a href="#七、【珊瑚海岸】系列，新装上架" class="headerlink" title="七、【珊瑚海岸】系列，新装上架"></a><strong>七、【珊瑚海岸】系列，新装上架</strong></h2><p><strong>活动时间：</strong>08月11日16:00 - 08月25日03:59</p><p><strong>活动说明：</strong>活动期间以下干员时装将在时装商店上架并进行限时贩售</p><p>◆**<em>[珊瑚海岸]系列-驭浪 WR04-斯卡蒂**</em></p><p>◆**<em>[珊瑚海岸]系列-灿阳朝露 SD05-白金**</em></p><p>◆**<em>[珊瑚海岸]系列-悠然假日 HD08-普罗旺斯**</em></p><p><img src="https://ak-fs.hypergryph.com/announce/images/20200806/53f05b61b5f9ff9ee9d2fdb844b5987d.jpg" alt="img"></p><h2 id="八、【罗德岛现代音乐排练室】，限时复刻"><a href="#八、【罗德岛现代音乐排练室】，限时复刻" class="headerlink" title="八、【罗德岛现代音乐排练室】，限时复刻"></a><strong>八、【罗德岛现代音乐排练室】，限时复刻</strong></h2><p><strong>活动说明：</strong>活动期间将复刻活动家具【罗德岛现代音乐排练室】系列</p><p><strong>获取方式：</strong>活动关卡三星首通掉落（部分）、「汐斯塔的黑曜石」收集奖励（部分）、扭蛋机（部分）、家具商店限时贩售（部分）</p><p><strong>（部分）家具商店贩售时间：</strong>08月11日16:00 - 08月25日03:59</p><p><img src="https://ak-fs.hypergryph.com/announce/images/20200806/65309474c0f19ab4081d047ad75c456f.jpg" alt="img"></p><h2 id="九、【汐斯塔沙滩小屋】，限时复刻"><a href="#九、【汐斯塔沙滩小屋】，限时复刻" class="headerlink" title="九、【汐斯塔沙滩小屋】，限时复刻"></a><strong>九、【汐斯塔沙滩小屋】，限时复刻</strong></h2><p><strong>家具商店贩售时间：</strong>08月11日16:00 - 08月25日03:59</p><p><img src="https://ak-fs.hypergryph.com/announce/images/20200806/32dfa06a58e96c0bef325103972376d0.jpg" alt="img"></p><h2 id="十、【火蓝之心艺人家具】，限时上架"><a href="#十、【火蓝之心艺人家具】，限时上架" class="headerlink" title="十、【火蓝之心艺人家具】，限时上架"></a><strong>十、【火蓝之心艺人家具】，限时上架</strong></h2><p><strong>家具商店贩售时间：</strong>08月11日16:00 - 09月08日03:59</p><p><em>更多活动内容请持续关注《明日方舟》游戏内公告、官网、官方微博及微信公众号。</em></p><p style="text-align: right">【明日方舟】运营组<br />2020年08月06日</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://ak.hypergryph.com/upload/images/20200806/485e1a6d2433a0356bb56663de322d1f.jpg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;</summary>
+    <content type="html"><![CDATA[<p><img src="https://ak.hypergryph.com/upload/images/20210114/91c518dcf4d1b00dfdd647c4cbbeea50.jpg" alt="img"></p><a id="more"></a><p><img src="https://ak.hypergryph.com/upload/images/20210114/91c518dcf4d1b00dfdd647c4cbbeea50.jpg" alt="img"></p><p><strong>一、危机合约，#4赛季「铅封行动」开启</strong></p><p><strong>赛季开启时间：</strong>01月19日 16:00 - 02月02日 03:59</p><p><strong>危机合约解锁条件：</strong>通关主线 2-10</p><p><strong>赛季说明：</strong>该赛季开启期间内，玩家可在赛季关卡中通过搭配不同「合约」进行作战，通过作战完成相关挑战任务提升关卡评价和收集「合约赏金」以及「行动协议」</p><p>◆「合约赏金」可用于“机密圣所”中兑换补给</p><p>◆「行动协议」可用于解锁更多危机合约内容</p><p><strong>跨赛季“机密圣所”开放</strong></p><p>◆跨赛季常设兑换所兑换物品：</p><p><strong><em>★★★★★：图耶</em></strong></p><p><strong><em>★★★★★：图耶信物</em></strong></p><p><strong><em>珊瑚海岸系列 -“SUM019.ver” -Castle-3（复刻）</em></strong></p><p><strong><em>#4赛季家具 - 铅封之旗</em></strong></p><p><strong>◆#4赛季特设兑换所补给：</strong> <strong><em>高级养成素材</em></strong>、龙门币、家具零件、作战记录、职业芯片等养成素材</p><p><strong>◆#4赛季特设兑换所开放兑换时间：</strong>01月19日 16:00 - 02月02日 03:59</p><p><strong>【注意事项】</strong></p><p>◆「危机合约」玩法不会消耗理智</p><p>◆部分「合约」解锁必须额外满足一定的“合约完成数”，合约完成数≠危机等级数</p><p>◆#4赛季对比上赛季将删除2个上赛季轮换行动地点，新增1个轮换行动地点，1个常驻行动地点，上赛季常驻行动地点将在本赛季加入轮换，共计8个行动地点。赛季期间，可以挑战1个常驻行动地点，同时有7个轮换行动地点将进行每日轮换</p><p>（活动开启后的第一天的地图轮换时间及对应挑战任务将会延长一天）</p><p>◆#4赛季常驻关卡将在 <strong><em>01月26日04:00</em></strong> 新增若干「合约」及「挑战任务」</p><p>◆#4赛季结束后，未使用的「合约赏金」将进行保留</p><p>◆#4赛季结束后，累计获得的「行动协议」将自动兑换为「铅封行动物资补给」，兑换比例为1：1</p><p>◆#4赛季期间，玩家每日可通过被使用支援单位用于支援他人通过危机合约来获取一定的信用</p><p>◆#4赛季期间玩家还可通过完成相关目标获取该赛季专属蚀刻章</p><p><img src="https://ak-fs.hypergryph.com/announce/images/20210114/c4148aeff35d1266ec01bd199a35dfdf.jpg" alt="img"></p><p><strong>二、[限定寻访·春节]系列，【地生五金】复刻寻访开启</strong></p><p><strong>活动时间：</strong>01月19日 16:00 - 02月02日 03:59</p><p><strong>活动说明：</strong>活动期间【限定寻访·春节】-【地生五金】复刻寻访开启，该寻访中以下干员出现率上升</p><p><strong><em>★★★★★★：年[限定]</em></strong> \ <strong><em>阿</em></strong>（占6★出率的70%）</p><p><strong><em>★★★★★：吽</em></strong>（占5★出率的50%）</p><p><strong>注意：</strong></p><p>◆【地生五金】寻访为【限定寻访·春节】系列寻访</p><p>◆【限定寻访·春节】寻访为【限定寻访】</p><p>◆【地生五金】复刻寻访中可出现的干员将与最新一期的常驻【标准寻访】保持一致</p><p>◆【地生五金】中登场的限定干员【年】属于【限定寻访·春节】限定干员</p><p>◆对于在此前【地生五金】限定寻访中抽取的玩家将在【地生五金】复刻开启时获得抽取次数对应比例（1:1）的【寻访数据契约】，届时，该【寻访数据契约】可与【地生五金】复刻时寻访获得的【寻访数据契约】叠加使用</p><p><strong><em>◆该寻访详细说明请参照相关寻访公告说明</em></strong></p><p><img src="https://ak-fs.hypergryph.com/announce/images/20210114/d805dd669f661f593b81e4e419bbaa31.jpg" alt="img"></p><p><strong>三、[0011]系列，限时复刻上架</strong></p><p><strong>活动时间：</strong>01月19日 16:00 - 02月02日 03:59</p><p><strong>活动说明：</strong>活动期间以下干员时装将在时装商店上架并进行限时贩售：</p><p><strong><em>◆0011系列-“岁红霞”- 陈</em></strong></p><p><strong><em>◆0011系列-“富贵荣华”- 诗怀雅</em></strong></p><p><strong><em>◆0011系列-“春竜”- 雷蛇</em></strong></p><p><img src="https://ak-fs.hypergryph.com/announce/images/20210114/e3d99494d5b1a590027bd26f2b8a3b32.jpg" alt="img"></p><p><strong>四、“物资筹备”“芯片搜索”限时全天开放</strong></p><p><strong>活动时间：</strong>01月19日 16:00 - 02月02日 03:59</p><p><strong>活动说明：</strong>活动期间内“物资筹备”以及“芯片搜索”的所有关卡将进行全天开放</p><p><img src="https://ak-fs.hypergryph.com/announce/images/20210114/af5af46896bf51a6eb068fc41de3337c.jpg" alt="img"></p><p><strong>五、【公开招募】干员更新</strong></p><p><strong>更新时间：</strong>01月19日 16:00</p><p><strong>更新说明：</strong>更新后，以下干员将加入并常驻【公开招募】</p><p><strong><em>★★★★★★：麦哲伦</em></strong></p><p><strong><em>★★★★★：送葬人</em></strong></p><p><strong><em>★★★★：红云</em></strong></p><p>注意：</p><p><strong><em>本次【公开招募】干员更新时，将对未开始进行招募的标签进行强制刷新，强制刷新注意事项及相关补偿请参照官方相关更新公告</em></strong></p><p><em>更多活动内容请持续关注《明日方舟》游戏内公告、官网、官方微博及微信公众号</em></p><p style="text-align: right">【明日方舟】运营组<br />2021年01月14日</p>]]></content>
     
     
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://ak.hypergryph.com/upload/images/20210114/91c518dcf4d1b00dfdd647c4cbbeea50.jpg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;</summary>
     
-    <category term="活动" scheme="categories/活动/"/>
     
     
-    <category term="Arknights" scheme="tags/Arknights/"/>
+    <category term="活动" scheme="http://example.com/categories/%E6%B4%BB%E5%8A%A8/"/>
+    
+    
+    <category term="Arknights" scheme="http://example.com/tags/Arknights/"/>
     
   </entry>
   
   <entry>
     <title>kotlin 基本类型</title>
-    <link href="2020/07/14/kotlin-basic-types/"/>
-    <id>2020/07/14/kotlin-basic-types/</id>
+    <link href="http://example.com/2020/07/14/kotlin-basic-types/"/>
+    <id>http://example.com/2020/07/14/kotlin-basic-types/</id>
     <published>2020-07-14T00:34:40.000Z</published>
     <updated>2020-07-21T05:43:07.137Z</updated>
     
@@ -101,8 +101,8 @@
   
   <entry>
     <title>ロドス・アイランド</title>
-    <link href="2020/04/19/nihonngo/"/>
-    <id>2020/04/19/nihonngo/</id>
+    <link href="http://example.com/2020/04/19/nihonngo/"/>
+    <id>http://example.com/2020/04/19/nihonngo/</id>
     <published>2020-04-19T03:30:05.000Z</published>
     <updated>2020-07-21T05:43:07.140Z</updated>
     
@@ -118,8 +118,8 @@
   
   <entry>
     <title>Hello World !</title>
-    <link href="2020/04/15/helloworld/"/>
-    <id>2020/04/15/helloworld/</id>
+    <link href="http://example.com/2020/04/15/helloworld/"/>
+    <id>http://example.com/2020/04/15/helloworld/</id>
     <published>2020-04-15T13:54:02.000Z</published>
     <updated>2020-07-21T05:43:07.136Z</updated>
     
@@ -131,17 +131,17 @@
     
     
     
-    <category term="Example" scheme="categories/Example/"/>
+    <category term="Example" scheme="http://example.com/categories/Example/"/>
     
     
-    <category term="code" scheme="tags/code/"/>
+    <category term="code" scheme="http://example.com/tags/code/"/>
     
   </entry>
   
   <entry>
     <title>Markdown 教程</title>
-    <link href="2020/04/15/markdown/"/>
-    <id>2020/04/15/markdown/</id>
+    <link href="http://example.com/2020/04/15/markdown/"/>
+    <id>http://example.com/2020/04/15/markdown/</id>
     <published>2020-04-14T16:58:59.000Z</published>
     <updated>2020-08-16T07:40:05.481Z</updated>
     
@@ -154,17 +154,17 @@
     
     
     
-    <category term="教程" scheme="categories/教程/"/>
+    <category term="教程" scheme="http://example.com/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Markdown" scheme="tags/Markdown/"/>
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
     
   </entry>
   
   <entry>
     <title>这是一篇拥有很长目录的文章</title>
-    <link href="2020/04/12/longindex/"/>
-    <id>2020/04/12/longindex/</id>
+    <link href="http://example.com/2020/04/12/longindex/"/>
+    <id>http://example.com/2020/04/12/longindex/</id>
     <published>2020-04-11T16:04:40.000Z</published>
     <updated>2020-07-21T05:43:07.137Z</updated>
     
@@ -175,17 +175,17 @@
     
     
     
-    <category term="Example" scheme="categories/Example/"/>
+    <category term="Example" scheme="http://example.com/categories/Example/"/>
     
     
-    <category term="long" scheme="tags/long/"/>
+    <category term="long" scheme="http://example.com/tags/long/"/>
     
   </entry>
   
   <entry>
     <title>这是一段很长很长很长很长很长很长很长很长很长很长很长很长很长很长很长的文章</title>
-    <link href="2020/04/11/longtext/"/>
-    <id>2020/04/11/longtext/</id>
+    <link href="http://example.com/2020/04/11/longtext/"/>
+    <id>http://example.com/2020/04/11/longtext/</id>
     <published>2020-04-11T15:53:28.000Z</published>
     <updated>2020-07-21T05:43:07.138Z</updated>
     
@@ -196,17 +196,17 @@
     
     
     
-    <category term="Example" scheme="categories/Example/"/>
+    <category term="Example" scheme="http://example.com/categories/Example/"/>
     
     
-    <category term="long" scheme="tags/long/"/>
+    <category term="long" scheme="http://example.com/tags/long/"/>
     
   </entry>
   
   <entry>
     <title>Unix 时间</title>
-    <link href="1970/01/01/unixtime/"/>
-    <id>1970/01/01/unixtime/</id>
+    <link href="http://example.com/1970/01/01/unixtime/"/>
+    <id>http://example.com/1970/01/01/unixtime/</id>
     <published>1970-01-01T00:00:00.000Z</published>
     <updated>2020-07-21T05:43:07.140Z</updated>
     
