@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-21T04:26:58.695Z</updated>
+  <updated>2021-04-11T10:46:15.991Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,55 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客框架的选择</title>
+    <link href="http://example.com/2021/04/11/%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6%E7%9A%84%E9%80%89%E6%8B%A9/"/>
+    <id>http://example.com/2021/04/11/%E5%8D%9A%E5%AE%A2%E6%A1%86%E6%9E%B6%E7%9A%84%E9%80%89%E6%8B%A9/</id>
+    <published>2021-04-11T10:34:00.000Z</published>
+    <updated>2021-04-11T10:46:15.991Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="博客框架的选择"><a href="#博客框架的选择" class="headerlink" title="博客框架的选择"></a>博客框架的选择</h2><blockquote><p>我所理解的静态网站生成器: 在生成器框架下写MarkDown文章,使用生成器把MarkDown文章编译成生成HTML</p></blockquote><p>主流选择也就那么几个:</p><ul><li>Jekyll</li><li>Hexo</li><li>VuePress</li><li>Hugo</li></ul><p>先讲结论,经一番思想斗争,本人选择了Hugo</p><h3 id="Jekyll"><a href="#Jekyll" class="headerlink" title="Jekyll"></a>Jekyll</h3><p>Jekyll是GitHub创始人使用Ruby写的,同时也是gh-Pages默认的静态网站生成器<br>但其速度较慢,特别是文章多的时候,特别明显</p><h3 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h3><p>Hexo是js写的,js的用户群体较大,Hexo中文文档比较齐全,国内获得了较大的使用人群</p><h3 id="VuePress"><a href="#VuePress" class="headerlink" title="VuePress"></a>VuePress</h3><p>较新的静态网站生成器,热度也不低,但同时也不太稳定; 其名可知,对熟悉Vue的同学较为友好,且Vue在交互性上有巨大的优势</p><h3 id="Hugo"><a href="#Hugo" class="headerlink" title="Hugo"></a>Hugo</h3><p>优点:</p><ul><li>天下武功唯快不破,使用golang开发; 即使应对庞大的文章生成量,速度是用秒来计算的,简直秒杀对手</li><li>“Google出品,必属精品”,相信Hugo会随着go的影响力在国内越走越远(本人也正有学go的想法)</li><li>一个技巧(专治”选择困难症”),利用了搜索引擎来对比了Hexo和Hugo的搜索热度,Hugo的相关文章数是Hexo的100多倍,全球用户量庞大,Hugo所可选的博客模板也不少<img src="https://cdn.jsdelivr.net/gh/twbworld/hosting@master/img/20200517212636.png" alt="img"></li></ul><p>缺点:</p><ul><li>虽然全球用户量庞大,但缺乏中文文档, 国内用户群体少, Hugo的相关中文文章也就少; Hugo会不会是在国内的一支”潜力股” ?</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;博客框架的选择&quot;&gt;&lt;a href=&quot;#博客框架的选择&quot; class=&quot;headerlink&quot; title=&quot;博客框架的选择&quot;&gt;&lt;/a&gt;博客框架的选择&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;我所理解的静态网站生成器: 在生成器框架下写MarkDown文章,使用生成</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="http://example.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>迟到的「给编程初学者的发表信」</title>
+    <link href="http://example.com/2021/04/11/%E8%BF%9F%E5%88%B0%E7%9A%84%E3%80%8C%E7%BB%99%E7%BC%96%E7%A8%8B%E5%88%9D%E5%AD%A6%E8%80%85%E7%9A%84%E5%8F%91%E8%A1%A8%E4%BF%A1%E3%80%8D/"/>
+    <id>http://example.com/2021/04/11/%E8%BF%9F%E5%88%B0%E7%9A%84%E3%80%8C%E7%BB%99%E7%BC%96%E7%A8%8B%E5%88%9D%E5%AD%A6%E8%80%85%E7%9A%84%E5%8F%91%E8%A1%A8%E4%BF%A1%E3%80%8D/</id>
+    <published>2021-04-11T10:34:00.000Z</published>
+    <updated>2021-04-11T10:46:38.143Z</updated>
+    
+    <content type="html"><![CDATA[<p>发表于01/02/2021 作者Ein Verne | <a href="https://github.com/einverne/einverne.github.io/commits/master/_posts/2021-01-02-an-open-letter-to-those-who-want-to-start-programming.md">查看修订历史</a></p><p>这些天翻箱倒柜，翻出来一些大学时候的文档，其中一篇是当时上外教课时打印给我们的材料，虽然可以看得到当时同时上面做过笔记，但现在已经完全不记得有这样一份文档的存在了。但回过头再看文档的内容，每一句话都是非常珍贵的建议，是一个那个时期完全需要读一下的材料，但当时却并没有好好珍惜。给那些想开始编程的人公开信”，如果记得没错的话这份文档交到我手上的时候，应该就是我刚去学习如何编程的时候。如果当时就能够理解这一份文档内容的话，这些多年来我肯定能少走过多的弯路。</p><p>在结合到最近陆陆续续看过关于认知的一些书，才发现我自身的问题并非在于看得东西不够多，而是没有完全理解我曾经看过的东西。就如这一份文档那样，现在的时间来看文档上层叠的内容都是当下非常好的建议，而当时的我并不理解，所以自然而然就忘记了这一份文档上的建议。</p><p>先来总结一下这一份文档中作者提出来的几个建议：</p><ul><li>开始创造一些有趣的东西。你需要毫不犹豫的开始做一些事情，而不是纠结于先开始学习，或者设置编辑器。</li><li>首先，固定算法和数据结构。开始的时候不要在意算法和数据结构。当然作者不是说算法和数据结构不重要，而是在起初的时候，不要在意算法和数据结构的细节，而是在学习和尝试的过程之中体会其的作用，记住算法和数据结构的名字，当真正要用到的时候深入了解，并切身体会它们的特定应用场景。当你真正需要他们的时候，可以用自己的熟悉的语言实现。</li><li>选择一种好的语言。选择一门你觉得可以在短时间内通过它生产出内容的语言。当完成一个任务并看到看到才是激励继续的动力。<ul><li>不要选择那种需要笨重的IDE才能运行的语言，迅速的产生成果才是唯一的目标</li></ul></li><li>选择一个好的编辑器，编辑器之于程序员就相当于弓之于弓箭手。<ul><li>Vim，许多Linux发行版的替代编辑器，虽然入门和学习曲线比较陡峭，但是是一个学习了终身收益的工具</li><li>Emacs，同样很有陡峭的学习曲线，但同样强大</li></ul></li><li>使用一个可以教你一些东西的操作系统，选择一个可以学习到的操作系统。当前主流的桌面操作系统也只有Windows，Linux和macOS，建议你选择一个合适的Linux发行版，作者的观点是Windows不会教你任何事情，但是使用Linux你能收获更多。我曾经花了一下将将所有的资料和应用切换到Linux Mint，我也使用这个发行版大约6年左右了，虽然确实确实实会遇到一些问题，但正是解决这些问题的过程，让我从中学习到了很多东西，就像<a href="http://einverne.github.io/post/2017/09/linux-system-boot-sequence.html">Linux的启动过程</a>，<a href="http://einverne.github.io/post/2018/02/linux-manage-startup-script.html">Linux下启动应用程序脚本</a>，以及关于<a href="http://einverne.github.io/post/2019/02/fstab-file.html">磁盘的配置</a>，<a href="http://einverne.github.io/post/2019/08/ubuntu-linux-mint-network-configuration.html">网络的配置</a>等等。</li><li>不要将文件复制粘贴到备份内容中。作者在这边推荐了Git，而当年我们在学校学习的还是SVN，真正将Git运用到方方面面我也是这些年来才真正实施的，以前只是拿来作为代码的版本管理，而之后我用Git来管理任何可见的文本，比如博客，比如笔记，比如<a href="https://github.com/einverne/dotfiles">字幕：配置</a>。再结合<a href="http://einverne.github.io/post/2019/03/git-worktree.html">GIT中worktree</a>，<a href="http://einverne.github.io/post/2020/04/git-subtree-usage.html">GIT中的子树</a>等等的功能，可以在任何一台电脑上迅速恢复我的工作环境。</li><li>知道从哪里获得帮助。知道如何寻求帮助，社群，StackOverflow，IRC，都是可以获取帮助的渠道，而对于我真正学会使用StackOverflow则是要到好几年之后独自学习Cocos-2x的时候，因为参考资料少，官方文档也不全面，StackOverflow帮助了很多，那个时候我才理解到互联网的互帮互助以这样的方式来实现的，那以后也曾经花了替换去积极回答别人的问题。</li><li>发展您的网络礼节。遵守网络礼仪，学会如何提问，好好地阅读一下提问的哲学对我来说又是在读完这篇文档之后好几年才真正理解的。</li><li>与人见面，因为书只教您一些日常知识。你不是这个领域唯一的程序员，交一些朋友和他们一切完成一些事情，你可以学到比图书更多的东西。这些年看技术书籍除非一些比较基础的算法大部分的书籍都会在出版之后不久便过时，但是People会随着时间改变。</li><li>编写开源代码。如果代码有用，别人回来使用或者修正你的代码。你也可以通过其他人添加的代码和提交的修改建议来学习并巩固你的编程技能。为开源项目编写代码不需要一个巨大的项目，你可以从最小的代码开始，一段一段下载YouTube视频的代码。当我看到这一段代码的时候，正好发生了GitHub下架youtube-dl项目，之后经过复杂的程序又恢复的事件，原始作者也正好出现出现被发现的<a href="https://rg3.name/202011071352.html">youtube-dl这个项目诞生的背景</a>。[[202011032314-GitHub-take-down-youtube-dl]]</li></ul><p>文中的内容大部分内容都在我之后对编程这个领域进一步的认识之后，陆陆续续才发现这每一条建议的可贵之处。的信，但肯定一个专业领域前辈所写的内容对后来者的启发意义都是巨大的。</p><h2 id="附录"><a href="#附录" class="headerlink" title="附录"></a>附录</h2><p>给那些想开始编程的人的一封公开信</p><p>首先，欢迎加入博爱。没有太多人想要创造东西并解决问题。你是一个 <a href="http://www.paulgraham.com/hp.html">黑客</a>。您是想做点有趣的事情的人之一。</p><blockquote><p><em>“当您不创造事物时，您就会被自己的品味而非能力所定义。”</em></p><p><em>– WhyTheLuckyStiff</em></p></blockquote><p>用少量盐把下面的单词拿出来。所有这些都来自我–一个<em>贴标签的程序员</em>。我喜欢让事情起作用，而不是坐在某个东西上并对其进行过度优化。</p><p>开始创建一些有趣的东西。那是一个很好的开始！如果您说“<em>需要在学习之前先学习</em>”，那么您将无法开始。每个人都必须从某个地方开始。启动您的编辑器并开始编写代码。</p><p>这是一些重要的事情，人们可能会称之为坏建议，但是我确定当我说完原因后，您会支持我。 <strong>首先，固定算法和数据结构。</strong> 在大多数简单应用程序中，它们没有通用的用例。您以后可以在需要时学习它们。在一段时间内，您将了解在某些情况下应采取的措施。知道他们的名字和他们的所作所为足以能够捡起一些纸，将其除尘并实施。那就是……如果没有可用的库（其他程序员的可重用代码），则可以使用您选择的编程语言来实现。</p><p><strong>选择一种好的语言。您认为可以在短时间内产生有用的东西。</strong></p><p>因此，不要让C成为您的第一语言。这可能会使您以真正的古怪的方式做事感到满意。C是解决汇编语言问题的方法。它提供了比其著名的前身-汇编语言更好的语法糖。但是今天，C（或C ++）已经不是一种可以很快产生某些东西的语言。我建议您使用动态语言-我不会保留任何选择。选择一种您认为可能会满意的语法（和文档）。为此，您可能要花一些时间尝试几种语言。选择这种语言的目的不是为了让您感觉更好，而且编程很容易。更快地完成工作并能够看到输出，这会激发您的动力。不要选择需要特殊重量级IDE（可帮助您编写和运行代码的工具）的语言来更好地使用该语言进行编程。您只需要一个文本编辑器。</p><p><strong>选择一个好的编辑器。</strong></p><p>编辑者是程序员，就像弓箭手是弓箭手一样。这是一些入门的编辑器…</p><ul><li><a href="http://www.sublimetext.com/2">SublimeText 2</a> –如果您刚刚开始，建议使用。</li><li>Emacs –巨大的学习曲线。复杂的快捷键。为了能够对其进行自定义，您需要学习Emacs Lisp。</li><li>Vim –为简单起见，很多人使用它，并且默认情况下Linux发行版附带它。我使用Emacs已有2年，然后切换到Vim，以逃避emacs复杂的按键操作以及当我的两只小手指开始受伤时。必须知道vim击键。当您进行远程工作并尝试从计算机上的某些服务器上键入代码时，您会知道，命令行中唯一没有安装的编辑器就是Vim。</li></ul><p>小心！Emacs和Vim可能真的很老。但是它们都具有一些功能，即使是大多数现代编辑器也没有。</p><p><strong>使用可以教您一些知识的操作系统。</strong></p><p>Windows不会教你任何东西。使用Windows唯一了解的就是单击。<em>exe</em>文件来安装软件并使用它。乍一看似乎很酷，但是从长远来看，当您必须部署应用程序时，尤其是当您希望成为一名Web开发人员时，您将需要至少Linux的基础知识。Linux还允许您按自己的方式自定义内容。Mac也很酷，但我认为您现在买不起。</p><p><strong>不要将文件复制粘贴到备份内容中。</strong></p><p>在业余程序员中，通常将文件复制粘贴到某个临时目录中以进行备份。那是他们似乎知道的唯一方法。停下！使用版本控制软件。我强烈建议Git，因为它很流行且易于使用。它拥有良好的社区和资源来支持新来者。（除了Git，还有汞，uri石，化石等。但是从Git开始。我不会因为建议Git的原因而打扰您）。</p><p><strong>知道从哪里获得帮助。</strong></p><p>加入您可以关联的社区（使用您使用的工具）。<a href="http://stackoverflow.com/">StackOverflow</a>是面向程序员的Facebook。没有状态消息和评论。相反，有问题和答案。还学习使用<a href="http://en.wikipedia.org/wiki/Internet_Relay_Chat">IRC</a>。它是聊天室的一种旧形式，现在被大多数开发人员用来共享信息和互相帮助。</p><p><strong>发展您的网络礼节。</strong></p><p>知道什么时候问问题。您面临的大多数问题可能已经被其他可能已经在互联网上发布答案的人偶然发现了。在IRC或任何论坛上<a href="http://blekko.com/">提问</a>之前，首先要先Google（或者我应该先说<a href="http://blekko.com/">blekko</a>），看看是否已经有解决您的问题的方法。IRC需要耐心。请记住，人们是出于善意免费帮助您的。有时，聊天室中的某个人可能需要几个小时才能回复您。因此，请等到他们这样做。此外，要有礼貌。这是一个很小的世界。业力好坏都回来了。</p><p><strong>结识人们，因为书只教你一些常规知识（*哦，<a href="http://diveintomark.org/archives/2011/04/29/the-book-is-dead">他们</a>\</strong>说书“书”已经死了* ）。**</p><p>当您修修补补或向做这些的人学习时，会学到一些街头智慧。漫游，遇见人们并打个<em>招呼</em>。您不是您所在位置的唯一程序员。交朋友，并与他们做事。如果您已经注意到，当几个极客聚在一起时，无论对话的起点是什么，它总是最终会变得技术性。它一定会发生。好好享受。编程已有很多年了，我可以告诉你，我从书本和文章中所学到的东西无非是直到我开始与人们见面并与他们取得6年的技术往来为止。所以我总是说我已经编程6年了，因为那是我开始与人会面并感到我真的开始学习的时候。</p><p><strong>编写开源代码。</strong></p><p>编写开源代码是有回报的。这不仅仅是慈善。您将留下别人可以使用并在未来几年<em>（可能）</em>进行改进的代码。当其他人添加到您的代码或提出更改建议时，它还可以帮助您提高技能。您开源的代码不必很大。它甚至可能是一个有用的小程序，可以下载youtube视频。此外，您会感到惊讶，您的代码通常可以帮助您开始工作并与人们进行有趣的对话。</p><p>最后，当岁月流逝时，通过写一封类似的信给其他寻求您帮助的人来回馈这种偏爱。并可能纠正我。</p><p><em>-<br>对于黑客，由黑客<br>Akash Manohar</em></p><p>来源：http：//blog.akash.im/an-open-letter-to-those-who-want-to-start](<a href="https://hexo.io/docs/one-command-deployment.html">https://hexo.io/docs/one-command-deployment.html</a>)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;发表于01/02/2021 作者Ein Verne | &lt;a href=&quot;https://github.com/einverne/einverne.github.io/commits/master/_posts/2021-01-02-an-open-letter-to-th</summary>
+      
+    
+    
+    
+    <category term="编程" scheme="http://example.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+    <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>测试文章</title>
@@ -58,26 +107,6 @@
 &lt;li&gt;无序列表&lt;/li&gt;
 &lt;/ul&gt;
 </summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2021/01/15/hello-world/"/>
-    <id>http://example.com/2021/01/15/hello-world/</id>
-    <published>2021-01-15T12:57:30.584Z</published>
-    <updated>2021-01-15T12:57:30.584Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
       
     
     
