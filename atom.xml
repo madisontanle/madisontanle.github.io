@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-11T09:18:00.869Z</updated>
+  <updated>2021-02-21T04:26:58.695Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,30 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>诗歌</title>
-    <link href="http://example.com/2021/04/11/%E8%AF%97%E6%AD%8C/"/>
-    <id>http://example.com/2021/04/11/%E8%AF%97%E6%AD%8C/</id>
-    <published>2021-04-11T09:13:00.000Z</published>
-    <updated>2021-04-11T09:18:00.869Z</updated>
-    
-    <content type="html"><![CDATA[<p>假如我没有见过太阳<br>我也许还可以忍受黑暗<br>可如今，太阳把我的寂寞<br>照耀得更加荒凉  </p><p>—-      艾米莉·狄金森 </p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;假如我没有见过太阳&lt;br&gt;我也许还可以忍受黑暗&lt;br&gt;可如今，太阳把我的寂寞&lt;br&gt;照耀得更加荒凉  &lt;/p&gt;
-&lt;p&gt;—-      艾米莉·狄金森 &lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-    <category term="诗歌&amp;哲学" scheme="http://example.com/tags/%E8%AF%97%E6%AD%8C-%E5%93%B2%E5%AD%A6/"/>
-    
-  </entry>
   
   <entry>
     <title>测试文章</title>
