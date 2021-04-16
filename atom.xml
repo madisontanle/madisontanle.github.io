@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-04-12T14:43:38.966Z</updated>
+  <updated>2021-04-16T02:59:55.915Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,21 +17,62 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>编程语言比喻</title>
+    <link href="http://example.com/2021/04/16/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E6%AF%94%E5%96%BB/"/>
+    <id>http://example.com/2021/04/16/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E6%AF%94%E5%96%BB/</id>
+    <published>2021-04-16T02:00:00.000Z</published>
+    <updated>2021-04-16T02:59:55.915Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://ae01.alicdn.com/kf/U9ed79fcbb64c4708a80d80837e536dedz.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://ae01.alicdn.com/kf/U9ed79fcbb64c4708a80d80837e536dedz.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="code" scheme="http://example.com/categories/code/"/>
+    
+    
+    <category term="code" scheme="http://example.com/tags/code/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown小技巧</title>
+    <link href="http://example.com/2021/04/12/markdown%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <id>http://example.com/2021/04/12/markdown%E5%B0%8F%E6%8A%80%E5%B7%A7/</id>
+    <published>2021-04-12T07:00:00.000Z</published>
+    <updated>2021-04-13T02:22:28.503Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>当文章中充满大量的链接使用时，会使源文本不易阅读，链接地址过长时尤为明显。此时可以使用键或引用来设置链接地址</strong></p><a id="more"></a><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><code class="hljs markdown"><span class="hljs-section"># Bad ❌</span><br>使用 [<span class="hljs-string">Gridea</span>][<span class="hljs-symbol">https://gridea.dev</span>] 之后，你会惊叹：可以，写博客的那个劲儿又回来了！<br><br><br><span class="hljs-section"># Good ✅</span><br><br>使用 [<span class="hljs-string">Gridea</span>][<span class="hljs-symbol">1</span>] 之后，你会惊叹：可以，写博客的那个劲儿又回来了！<br><br><span class="xml"><span class="hljs-comment">&lt;!-- 链接 --&gt;</span></span><br><br>[<span class="hljs-symbol">1</span>]: <span class="hljs-link">https://gridea.dev</span><br><br><br><span class="hljs-section"># 同样 Good ✅</span><br><br>使用 [Gridea] 之后，你会有：可以，写博客的那个劲儿又回来了！<br><br><br><span class="xml"><span class="hljs-comment">&lt;!-- 链接 --&gt;</span></span><br><br>[<span class="hljs-symbol">Gridea</span>]: <span class="hljs-link">https://gridea.dev</span><br></code></pre></td></tr></table></figure><hr><p><strong>为每一项元素使用 1 来进行有序列表标号，当调整元素个数或顺序时，无需重写数字</strong></p><p>把大象装冰箱分几步？</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs markdown"><span class="hljs-bullet">1.</span> 打开冰箱门<br><span class="hljs-bullet">1.</span> 把大象装冰箱<br><span class="hljs-bullet">1.</span> 关上冰箱门<br></code></pre></td></tr></table></figure><ol><li><p>打开冰箱门</p></li><li><p>把大象装冰箱</p></li><li><p>关上冰箱门</p><p>转自[海岛心hey]</p></li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;当文章中充满大量的链接使用时，会使源文本不易阅读，链接地址过长时尤为明显。此时可以使用键或引用来设置链接地址&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Markdown" scheme="http://example.com/categories/Markdown/"/>
+    
+    
+    <category term="技巧" scheme="http://example.com/tags/%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>假如</title>
     <link href="http://example.com/2021/04/12/%E5%81%87%E5%A6%82/"/>
     <id>http://example.com/2021/04/12/%E5%81%87%E5%A6%82/</id>
     <published>2021-04-12T05:00:00.000Z</published>
-    <updated>2021-04-12T14:43:38.966Z</updated>
+    <updated>2021-04-13T02:33:08.128Z</updated>
     
-    <content type="html"><![CDATA[<p>假如我没有见过太阳 </p><p>我也许还可以忍受黑暗</p><p>可如今，</p><p>太阳把我的寂寞 </p><p>照耀得更加荒凉 </p><p>—-艾米莉·狄金森</p><a id="more"></a>]]></content>
+    <content type="html"><![CDATA[<h4 id="假如我没有见过太阳"><a href="#假如我没有见过太阳" class="headerlink" title="假如我没有见过太阳"></a>假如我没有见过太阳</h4><h4 id="我也许还可以忍受黑暗"><a href="#我也许还可以忍受黑暗" class="headerlink" title="我也许还可以忍受黑暗"></a>我也许还可以忍受黑暗</h4><h4 id="可如今，"><a href="#可如今，" class="headerlink" title="可如今，"></a>可如今，</h4><h4 id="太阳把我的寂寞"><a href="#太阳把我的寂寞" class="headerlink" title="太阳把我的寂寞"></a>太阳把我的寂寞</h4><h4 id="照耀得更加荒凉"><a href="#照耀得更加荒凉" class="headerlink" title="照耀得更加荒凉"></a>照耀得更加荒凉</h4><h5 id="—-艾米莉·狄金森"><a href="#—-艾米莉·狄金森" class="headerlink" title="—-艾米莉·狄金森"></a>—-艾米莉·狄金森</h5><a id="more"></a>]]></content>
     
     
-    <summary type="html">&lt;p&gt;假如我没有见过太阳 &lt;/p&gt;
-&lt;p&gt;我也许还可以忍受黑暗&lt;/p&gt;
-&lt;p&gt;可如今，&lt;/p&gt;
-&lt;p&gt;太阳把我的寂寞 &lt;/p&gt;
-&lt;p&gt;照耀得更加荒凉 &lt;/p&gt;
-&lt;p&gt;—-艾米莉·狄金森&lt;/p&gt;</summary>
+    <summary type="html">&lt;h4 id=&quot;假如我没有见过太阳&quot;&gt;&lt;a href=&quot;#假如我没有见过太阳&quot; class=&quot;headerlink&quot; title=&quot;假如我没有见过太阳&quot;&gt;&lt;/a&gt;假如我没有见过太阳&lt;/h4&gt;&lt;h4 id=&quot;我也许还可以忍受黑暗&quot;&gt;&lt;a href=&quot;#我也许还可以忍受黑暗&quot; class=&quot;headerlink&quot; title=&quot;我也许还可以忍受黑暗&quot;&gt;&lt;/a&gt;我也许还可以忍受黑暗&lt;/h4&gt;&lt;h4 id=&quot;可如今，&quot;&gt;&lt;a href=&quot;#可如今，&quot; class=&quot;headerlink&quot; title=&quot;可如今，&quot;&gt;&lt;/a&gt;可如今，&lt;/h4&gt;&lt;h4 id=&quot;太阳把我的寂寞&quot;&gt;&lt;a href=&quot;#太阳把我的寂寞&quot; class=&quot;headerlink&quot; title=&quot;太阳把我的寂寞&quot;&gt;&lt;/a&gt;太阳把我的寂寞&lt;/h4&gt;&lt;h4 id=&quot;照耀得更加荒凉&quot;&gt;&lt;a href=&quot;#照耀得更加荒凉&quot; class=&quot;headerlink&quot; title=&quot;照耀得更加荒凉&quot;&gt;&lt;/a&gt;照耀得更加荒凉&lt;/h4&gt;&lt;h5 id=&quot;—-艾米莉·狄金森&quot;&gt;&lt;a href=&quot;#—-艾米莉·狄金森&quot; class=&quot;headerlink&quot; title=&quot;—-艾米莉·狄金森&quot;&gt;&lt;/a&gt;—-艾米莉·狄金森&lt;/h5&gt;</summary>
     
     
     
@@ -43,16 +84,37 @@
   </entry>
   
   <entry>
+    <title>快速清理Docker垃圾文件，释放硬盘空间</title>
+    <link href="http://example.com/2021/04/12/%E5%BF%AB%E9%80%9F%E6%B8%85%E7%90%86Docker%E5%9E%83%E5%9C%BE%E6%96%87%E4%BB%B6%EF%BC%8C%E9%87%8A%E6%94%BE%E7%A1%AC%E7%9B%98%E7%A9%BA%E9%97%B4/"/>
+    <id>http://example.com/2021/04/12/%E5%BF%AB%E9%80%9F%E6%B8%85%E7%90%86Docker%E5%9E%83%E5%9C%BE%E6%96%87%E4%BB%B6%EF%BC%8C%E9%87%8A%E6%94%BE%E7%A1%AC%E7%9B%98%E7%A9%BA%E9%97%B4/</id>
+    <published>2021-04-12T05:00:00.000Z</published>
+    <updated>2021-04-13T02:39:32.158Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>说明：</strong>我们在使用一段时间的<code>Docker</code>后，会发现堆积了大量无用的垃圾文件，比如停止的容器，限制不要的镜像，杂乱的存储，这时候我们就需要经常清理，让<code>Docker</code>环境如同初装一样纯净。</p><a id="more"></a><h2 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h2><p>1、此命令会清空所有的<code>Docker</code>文件</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs plain">docker kill $(docker ps -aq)<br>docker rm $(docker ps -aq)<br>docker rmi $(docker images -q)<br>docker volume rm $(docker volume ls -q)<br></code></pre></td></tr></table></figure><p>2、此命令会保留正在运行的<code>Docker</code>镜像，其它会全部清除</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs plain">docker rm $(docker ps -aq)<br>docker rmi $(docker images -q)<br>docker volume rm $(docker volume ls -q)<br></code></pre></td></tr></table></figure><p>版权归 <a href="https://www.moerats.com/">Rat’s Blog</a> 所有</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;说明：&lt;/strong&gt;我们在使用一段时间的&lt;code&gt;Docker&lt;/code&gt;后，会发现堆积了大量无用的垃圾文件，比如停止的容器，限制不要的镜像，杂乱的存储，这时候我们就需要经常清理，让&lt;code&gt;Docker&lt;/code&gt;环境如同初装一样纯净。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="docker" scheme="http://example.com/categories/docker/"/>
+    
+    
+    <category term="docker" scheme="http://example.com/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
     <title>年轻人的第一只降主动ANC降噪耳机</title>
     <link href="http://example.com/2021/04/12/%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8F%AA%E9%99%8D%E4%B8%BB%E5%8A%A8ANC%E9%99%8D%E5%99%AA%E8%80%B3%E6%9C%BA/"/>
     <id>http://example.com/2021/04/12/%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8F%AA%E9%99%8D%E4%B8%BB%E5%8A%A8ANC%E9%99%8D%E5%99%AA%E8%80%B3%E6%9C%BA/</id>
     <published>2021-04-12T04:00:00.000Z</published>
-    <updated>2021-04-12T07:47:01.320Z</updated>
+    <updated>2021-04-16T03:04:02.196Z</updated>
     
-    <content type="html"><![CDATA[<p>图片暂时搁置<br><img src="http://image.coolapk.com/feed/2021/0403/11/1828457_d4a37810_9117_4919@2176x3264.jpeg.m.jpg" alt="img"></p><a id="more"></a><h4 id="ANCMonster-clarity-6-0-ANC"><a href="#ANCMonster-clarity-6-0-ANC" class="headerlink" title="ANCMonster clarity 6.0 ANC"></a>ANCMonster clarity 6.0 ANC</h4><h5 id="基础配置"><a href="#基础配置" class="headerlink" title="基础配置"></a>基础配置</h5><p>百元主动ANC降噪耳机 磨砂观感<br>type-C充电接口 磁吸盖板<br>魔声的声音一向饱满 对 就是饱满 虽为蓝牙耳机<br>但能到的高低频率比普通耳机 肯定宽些<br>按2s 进入ANC ON模式<br>再按2s hearing through 通透模式<br>再按就 ANC OFF 观基 <img src="http://static.coolapk.com/emoticons/v9/coolapk_emotion_82_miaomiao.png" alt="喵喵"></p><p><img src="http://image.coolapk.com/feed/2021/0403/11/1828457_407f7924_9117_4911@1968x3264.jpeg.m.jpg" alt="img"></p><h5 id="关于ANC"><a href="#关于ANC" class="headerlink" title="关于ANC"></a>关于ANC</h5><p>ANC 就是外面的麦克风🎙拾音然后芯片处理，产生相反的声音，结合耳内mic的声音，使振幅减小。对于ANC不适者，一般身体可能有问题，这种不适(例如:晕)是结果，是一种病兆。</p><p><img src="http://image.coolapk.com/feed/2021/0403/15/1828457_abc81beb_3675_551@2176x3264.jpeg.m.jpg" alt="img"></p><h5 id="ANC主动降噪的体验"><a href="#ANC主动降噪的体验" class="headerlink" title="ANC主动降噪的体验"></a>ANC主动降噪的体验</h5><p>主观感受 挺明显的<br>外面下着雨 打开后→只能听见雨滴嘀嗒击打雨棚的声音<br>靠着路边 打开后→ 还是能听见车辆的滴滴声 但车的刷刷经过的声音没了 堵车的话 滴滴滴依旧 就挺烦人 <img src="http://static.coolapk.com/emoticons/v9/coolapk_emotion_18_han.png" alt="汗"><br>咯吱的椅子💺 打开后→ 明显没那么响了，只能听到一点声音 都是些微微的声音 (轮子滚动)<br>整体来说<br>周围主观感受在20dB左右<br>就像微风吹动地上树叶的声音大小<br>能听见呼吸声<img src="http://static.coolapk.com/emoticons/v9/coolapk_emotion_64_shounuehuaji.png" alt="受虐滑稽"><br>ANC模式下剪指甲的那种突然的尖锐声会使耳机爆一下mic</p><p><img src="http://image.coolapk.com/feed/2021/0403/11/1828457_ce68656d_9117_4907@2062x2911.jpeg.m.jpg" alt="img"></p><h5 id="对于风噪"><a href="#对于风噪" class="headerlink" title="对于风噪"></a>对于风噪</h5><p>耳机没有处理风噪的功能<br>将耳机反上下颠倒着带就可以了，走动的时候就不会有噪音</p><p><img src="http://image.coolapk.com/feed/2021/0403/23/1828457_e482bd29_2811_6771@3264x2176.jpeg.m.jpg" alt="img"></p><h5 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h5><p>初中的时候在腾讯的商店买过B字耳机，真的非常带劲。那时他们还是合作的关系吧。<br>据网上说，魔声也叫怪兽monster，魔声M与魔音B因经济纠纷就各自单干了，魔音B已被苹果apple收购。<br>感觉魔声在国内市场有潜力啊，希望他们越来越好吧！</p><p><img src="http://image.coolapk.com/feed/2021/0403/11/1828457_e131fbd3_9117_4905@2176x3264.jpeg.m.jpg" alt="img"></p><p><a href="https://www.coolapk.com/t/%E8%80%B3%E6%9C%BA?type=12">#耳机#</a><a href="https://www.coolapk.com/t/%E4%B8%BB%E5%8A%A8%E9%99%8D%E5%99%AA%E8%80%B3%E6%9C%BA?type=12">#主动降噪耳机#</a><a href="https://www.coolapk.com/t/monster?type=12">#monster#</a></p>]]></content>
+    <content type="html"><![CDATA[<p>手机终端可看图片<br><img src="http://image.coolapk.com/feed/2021/0403/11/1828457_d4a37810_9117_4919@2176x3264.jpeg.m.jpg" alt="img"></p><a id="more"></a><h4 id="ANCMonster-clarity-6-0-ANC"><a href="#ANCMonster-clarity-6-0-ANC" class="headerlink" title="ANCMonster clarity 6.0 ANC"></a>ANCMonster clarity 6.0 ANC</h4><h5 id="基础配置"><a href="#基础配置" class="headerlink" title="基础配置"></a>基础配置</h5><p>百元主动ANC降噪耳机 磨砂观感<br>type-C充电接口 磁吸盖板<br>魔声的声音一向饱满 对 就是饱满 虽为蓝牙耳机<br>但能到的高低频率比普通耳机 肯定宽些<br>按2s 进入ANC ON模式<br>再按2s hearing through 通透模式<br>再按就 ANC OFF 观基 <img src="http://static.coolapk.com/emoticons/v9/coolapk_emotion_82_miaomiao.png" alt="喵喵"></p><p><img src="http://image.coolapk.com/feed/2021/0403/11/1828457_407f7924_9117_4911@1968x3264.jpeg.m.jpg" alt="img"></p><h5 id="关于ANC"><a href="#关于ANC" class="headerlink" title="关于ANC"></a>关于ANC</h5><p>ANC 就是外面的麦克风🎙拾音然后芯片处理，产生相反的声音，结合耳内mic的声音，使振幅减小。对于ANC不适者，一般身体可能有问题，这种不适(例如:晕)是结果，是一种病兆。</p><p><img src="http://image.coolapk.com/feed/2021/0403/15/1828457_abc81beb_3675_551@2176x3264.jpeg.m.jpg" alt="img"></p><h5 id="ANC主动降噪的体验"><a href="#ANC主动降噪的体验" class="headerlink" title="ANC主动降噪的体验"></a>ANC主动降噪的体验</h5><p>主观感受 挺明显的<br>外面下着雨 打开后→只能听见雨滴嘀嗒击打雨棚的声音<br>靠着路边 打开后→ 还是能听见车辆的滴滴声 但车的刷刷经过的声音没了 堵车的话 滴滴滴依旧 就挺烦人 <img src="http://static.coolapk.com/emoticons/v9/coolapk_emotion_18_han.png" alt="汗"><br>咯吱的椅子💺 打开后→ 明显没那么响了，只能听到一点声音 都是些微微的声音 (轮子滚动)<br>整体来说<br>周围主观感受在20dB左右<br>就像微风吹动地上树叶的声音大小<br>能听见呼吸声<img src="http://static.coolapk.com/emoticons/v9/coolapk_emotion_64_shounuehuaji.png" alt="受虐滑稽"><br>ANC模式下剪指甲的那种突然的尖锐声会使耳机爆一下mic</p><p><img src="http://image.coolapk.com/feed/2021/0403/11/1828457_ce68656d_9117_4907@2062x2911.jpeg.m.jpg" alt="img"></p><h5 id="对于风噪"><a href="#对于风噪" class="headerlink" title="对于风噪"></a>对于风噪</h5><p>耳机没有处理风噪的功能<br>将耳机反上下颠倒着带就可以了，走动的时候就不会有噪音</p><p><img src="http://image.coolapk.com/feed/2021/0403/23/1828457_e482bd29_2811_6771@3264x2176.jpeg.m.jpg" alt="img"></p><h5 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h5><p>初中的时候在腾讯的商店买过B字耳机，真的非常带劲。那时他们还是合作的关系吧。<br>据网上说，魔声也叫怪兽monster，魔声M与魔音B因经济纠纷就各自单干了，魔音B已被苹果apple收购。<br>感觉魔声在国内市场有潜力啊，希望他们越来越好吧！</p><p><img src="http://image.coolapk.com/feed/2021/0403/11/1828457_e131fbd3_9117_4905@2176x3264.jpeg.m.jpg" alt="img"></p><p><a href="https://www.coolapk.com/t/%E8%80%B3%E6%9C%BA?type=12">#耳机#</a><a href="https://www.coolapk.com/t/%E4%B8%BB%E5%8A%A8%E9%99%8D%E5%99%AA%E8%80%B3%E6%9C%BA?type=12">#主动降噪耳机#</a><a href="https://www.coolapk.com/t/monster?type=12">#monster#</a></p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;图片暂时搁置&lt;br&gt;&lt;img src=&quot;http://image.coolapk.com/feed/2021/0403/11/1828457_d4a37810_9117_4919@2176x3264.jpeg.m.jpg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;手机终端可看图片&lt;br&gt;&lt;img src=&quot;http://image.coolapk.com/feed/2021/0403/11/1828457_d4a37810_9117_4919@2176x3264.jpeg.m.jpg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;</summary>
     
     
     
