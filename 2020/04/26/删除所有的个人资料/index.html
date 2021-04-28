@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>离职时如何完整的清理自己的电脑 | 镡乐Blog</title><script src="https://cdn.bootcss.com/valine/1.4.4/Valine.min.js"></script><link rel="stylesheet" href="/css/arknights.css"><link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/highlight.js/10.1.2/styles/atom-one-dark-reasonable.min.css"><style>@font-face {
+ font-family: BenderLight;
+ src: local('Bender'), url("/font/BenderLight.ttf");
+}
+@font-face {
+ font-family: 'JetBrains Mono';
+ src: local('JetBrains Mono'), url('/font/JetBrainsMono-Regular.woff2') format('woff2');
+}</style><meta name="generator" content="Hexo 5.3.0"><link rel="alternate" href="/atom.xml" title="镡乐Blog" type="application/atom+xml">
+</head><body><header><nav><a href="/">Home</a><a href="/archives/">Archives</a><a href="/about/">About</a><a href="/Links/">Links</a></nav></header><main><article><div id="post-bg"><div id="post-title"><div id="post-info"><span>date:<time datetime="2020-04-26T11:17:00.000Z" id="date"> 2020-04-26</time></span><br><span>updated:<time datetime="2021-04-27T10:01:23.211Z" id="updated"> 2021-04-27</time></span></div><h1>离职时如何完整的清理自己的电脑</h1><hr></div><div id="post-content"><p>离职时如何完整的清理自己的电脑</p>
+<p>最近要换个地方搬砖了, 离职前准备清下电脑, 于是总结了下清理时的几种方法</p>
+<a id="more"></a>
+
+<p>主要删除 <code>C:\Users\用户名</code> 下的文件, 挨个检查, 确认无误没有遗漏后再反复擦除一遍, 程序猿的话一定要删除个人目录下的 <code>.ssh</code> 文件夹, 为啥我也就不细说了<br>可以使用 CCleaner 这类的软件</p>
+<blockquote>
+<p><strong>然而, 光删除并没有什么用, 对于干IT行业的人来说, 谁知道下一个来的人会不会把你删除过的数据恢复出来, 所以就需要下面的几个方法来完整的清除你所有的数据</strong></p>
+</blockquote>
+<h1 id="擦除硬盘记录-让数据无法恢复"><a href="#擦除硬盘记录-让数据无法恢复" class="headerlink" title="擦除硬盘记录, 让数据无法恢复"></a>擦除硬盘记录, 让数据无法恢复</h1><h2 id="使用-cipher-w-命令擦除数据"><a href="#使用-cipher-w-命令擦除数据" class="headerlink" title="使用 cipher /w: 命令擦除数据"></a>使用 <code>cipher /w:</code> 命令擦除数据</h2><p><code>cipher</code> 是 windows 自带的命令, 用于加密, 擦除数据等操作. <strong>/w</strong> 项用于反复用0和1读写硬盘来达到完整擦除数据的效果, 并不会删除整个分区. 使用方法如下</p>
+<ul>
+<li>win + r</li>
+<li>输入 <code>powershell</code> 或者 <code>cmd</code></li>
+<li>在小黑框里输入 <code>cipher /w:D</code> (这里的 D 为你想要擦除的磁盘分区)</li>
+</ul>
+<p>运行后见下图</p>
+<p><img src="https://imikumepic.cdn.hazymoon.vip/2018/08/2018082502534689.jpg" alt="离职时如何完整的清理自己的电脑"></p>
+<blockquote>
+<p>擦除完以后使用 <strong>Ontrack EasyRecovery</strong> 扫了一遍, 基本全部删除了的文件都扫出来了….(据说扫出来也不能很好的恢复?) 因为软件是免费版, 所以也没有尝试恢复数据, 总之非常不好使.</p>
+</blockquote>
+<h2 id="使用-CCleaner-擦除数据"><a href="#使用-CCleaner-擦除数据" class="headerlink" title="使用 CCleaner 擦除数据"></a>使用 CCleaner 擦除数据</h2><p>CCleaner 自带一个擦除空白空间的功能, 勾选 <strong>Wipe Free Space</strong> 即可</p>
+<p><img src="https://imikumepic.cdn.hazymoon.vip/2018/08/2018082502560013.jpg" alt="离职时如何完整的清理自己的电脑"></p>
+<blockquote>
+<p>由于时间有点慢, 就没尝试太多, 大家可以试试</p>
+</blockquote>
+<h2 id="格式化-适用于没有需要保留数据的分区"><a href="#格式化-适用于没有需要保留数据的分区" class="headerlink" title="格式化(适用于没有需要保留数据的分区)"></a>格式化(适用于没有需要保留数据的分区)</h2><p>对于没有数据的硬盘来说, 格式化可能是最快速清理数据的方法了, 格式化时不要勾选快速格式化, 快速格式化只是对所有文件加上了 <code>已删除</code> 的 tag, 而格式化则会将磁盘删除以后重写一遍, 可以删除的更彻底.</p>
+<blockquote>
+<p>完整式化一次以后依旧使用 <strong>Ontrack EasyRecovery</strong> 尝试恢复了下数据, 基本没有什么太多的数据可以扫出来.</p>
+</blockquote>
+<h2 id="使用专业的软件擦除数据"><a href="#使用专业的软件擦除数据" class="headerlink" title="使用专业的软件擦除数据"></a>使用专业的软件擦除数据</h2><p>我是用的是 <strong>Eraser</strong> 这款软件, 专门用来擦除数据的, 自带了很多专业的标准, 比如Gutmann和DoD 5220.22这样的国防级擦除标准. 使用方法:</p>
+<p>在 <a target="_blank" rel="noopener" href="https://eraser.heidi.ie/download/">https://eraser.heidi.ie/download/</a> 下载最新版本的软件</p>
+<p>安装时选第一个安装就好了, 运行后左上角新建一个任务(New Task), 任务类型(Task Type) 选择第一个手动运行. 然后点左下角的Add Data添加要擦除的数据, 普通用户可以选删除回收站(Recycle Bin), 擦除方法可以选 <strong>DoD 5220.22</strong> 然后点Ok, 在你创建的任务上点击右键, run 一下, 耐心等待就好了</p>
+<blockquote>
+<p>删除完毕后基本没有扫描出和自己相关的一些文件了， 效果海星， 就是速度很慢， 3T的硬盘花了2天多</p>
+</blockquote>
+<h2 id="人工反复擦除"><a href="#人工反复擦除" class="headerlink" title="人工反复擦除"></a>人工反复擦除</h2><p>自己用大文件填满, 删除, 填满, 删除, 反复操作, 如果你有足够的耐心的话(或许可以试试 fsutil 命令?)</p>
+<h2 id="物理删除-适用于家里有矿的人"><a href="#物理删除-适用于家里有矿的人" class="headerlink" title="物理删除(适用于家里有矿的人)"></a>物理删除(适用于家里有矿的人)</h2><p>简单的来说就是物理破坏硬盘数据, 或者直接把硬盘带走(如果公司同意的话), 像Google那样的大公司就是这么干的~</p>
+<h2 id="win10-自带的重置功能"><a href="#win10-自带的重置功能" class="headerlink" title="win10 自带的重置功能"></a>win10 自带的重置功能</h2><blockquote>
+<p>可以完整的擦除用户资料, 因为公司电脑是win7, 所以没尝试过</p>
+</blockquote>
+<h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p>入职时可以用自己的电脑, 硬盘, 或者用BitLocker加密一下.<br>软件能用便携版就用便携版, 没有便携版就找找有没有绿色版, 这样删除时可以更方便</p>
+<p>link:<a target="_blank" rel="noopener" href="https://imiku.me/">https://imiku.me/</a></p>
+<div id="paginator"></div></div><div id="post-footer"><hr><a href="/2020/04/27/%E5%AF%B9%E4%BA%8E%E5%AD%A6%E4%B9%A0%EF%BC%8C/">← Prev </a><span style="color: #fe2"> | </span><a href="/2020/04/26/%E4%B8%80%E4%B8%AA%E5%9B%BE%E5%BA%8A%E8%BD%AF%E4%BB%B6%20PicGo/">用Github来当博客图床 Next →</a><hr></div><div id="bottom-btn"><a id="to-index" href="#post-index" title="index">≡</a><a id="to-top" href="#post-title" title="to top">∧</a></div><details id="reward"><summary>打赏</summary><div id="alipay"><span>支付宝 | Alipay</span><br><img src="/img/Alipay.png"></div><div id="wechat"><span>微信 | WeChat</span><br><img src="/img/WeChat.png"></div></details><div id="Valine"></div><script>new Valine({
+ el: '#Valine'
+ , appId: 'feY44XamakIk0Ae6gN3OHwo3-gzGzoHsz'
+ , appKey: 'Cs0Xnnv7uCq96zOhPhxA6NGK'
+ , placeholder: '此条评论委托企鹅物流发送'
+})</script></div></article><aside><div id="about"><a href="/" id="logo"><img src="https://i.loli.net/2021/04/24/Wh4yNuYeE59rI7j.jpg" alt="Logo"></a><h1 id="Dr"><a href="/"> Dr.Tanle</a></h1><section id="total"><a id="total-archives" href="/archives"><span class="total-title">Archives Total:</span><span class="total-number">23</span></a><div id="total-tags"><span class="total-title">Tags:</span><span class="total-number">13</span></div><div id="total-categories"><span class="total-title">Categories:</span><span class="total-number">15</span></div></section></div><div id="aside-block"><h1>INDEX</h1><div id="post-index"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#%E6%93%A6%E9%99%A4%E7%A1%AC%E7%9B%98%E8%AE%B0%E5%BD%95-%E8%AE%A9%E6%95%B0%E6%8D%AE%E6%97%A0%E6%B3%95%E6%81%A2%E5%A4%8D"><span class="toc-number">1.</span> <span class="toc-text">擦除硬盘记录, 让数据无法恢复</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BD%BF%E7%94%A8-cipher-w-%E5%91%BD%E4%BB%A4%E6%93%A6%E9%99%A4%E6%95%B0%E6%8D%AE"><span class="toc-number">1.1.</span> <span class="toc-text">使用 cipher &#x2F;w: 命令擦除数据</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BD%BF%E7%94%A8-CCleaner-%E6%93%A6%E9%99%A4%E6%95%B0%E6%8D%AE"><span class="toc-number">1.2.</span> <span class="toc-text">使用 CCleaner 擦除数据</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%A0%BC%E5%BC%8F%E5%8C%96-%E9%80%82%E7%94%A8%E4%BA%8E%E6%B2%A1%E6%9C%89%E9%9C%80%E8%A6%81%E4%BF%9D%E7%95%99%E6%95%B0%E6%8D%AE%E7%9A%84%E5%88%86%E5%8C%BA"><span class="toc-number">1.3.</span> <span class="toc-text">格式化(适用于没有需要保留数据的分区)</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BD%BF%E7%94%A8%E4%B8%93%E4%B8%9A%E7%9A%84%E8%BD%AF%E4%BB%B6%E6%93%A6%E9%99%A4%E6%95%B0%E6%8D%AE"><span class="toc-number">1.4.</span> <span class="toc-text">使用专业的软件擦除数据</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BA%BA%E5%B7%A5%E5%8F%8D%E5%A4%8D%E6%93%A6%E9%99%A4"><span class="toc-number">1.5.</span> <span class="toc-text">人工反复擦除</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E7%89%A9%E7%90%86%E5%88%A0%E9%99%A4-%E9%80%82%E7%94%A8%E4%BA%8E%E5%AE%B6%E9%87%8C%E6%9C%89%E7%9F%BF%E7%9A%84%E4%BA%BA"><span class="toc-number">1.6.</span> <span class="toc-text">物理删除(适用于家里有矿的人)</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#win10-%E8%87%AA%E5%B8%A6%E7%9A%84%E9%87%8D%E7%BD%AE%E5%8A%9F%E8%83%BD"><span class="toc-number">1.7.</span> <span class="toc-text">win10 自带的重置功能</span></a></li></ol></li><li class="toc-item toc-level-1"><a class="toc-link" href="#%E5%85%B6%E4%BB%96"><span class="toc-number">2.</span> <span class="toc-text">其他</span></a></li></ol></div></div><footer><nobr><span class="text-title">©</span><span class="text-content">2020-2021</span></nobr><wbr><nobr><span class="text-title">ICP</span><span class="text-content">——Git服务器——</span></nobr><wbr><wbr><nobr>published with&nbsp;<a target="_blank" rel="noopener" href="http://hexo.io">Hexo&nbsp;</a></nobr><wbr><nobr>Theme&nbsp;<a target="_blank" rel="noopener" href="https://github.com/Yue-plus/hexo-theme-arknights">Arknight&nbsp;</a></nobr><wbr><nobr>by&nbsp;<a target="_blank" rel="noopener" href="https://github.com/Yue-plus">Yue_plus</a></nobr></footer></aside></main><canvas id="canvas-dust"></canvas><script src="/js/arknights.js"></script><script src="https://cdn.bootcdn.net/ajax/libs/highlight.js/10.1.2/highlight.min.js"></script></body></html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>用Github来当博客图床 | 镡乐Blog</title><script src="https://cdn.bootcss.com/valine/1.4.4/Valine.min.js"></script><link rel="stylesheet" href="/css/arknights.css"><link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/highlight.js/10.1.2/styles/atom-one-dark-reasonable.min.css"><style>@font-face {
+ font-family: BenderLight;
+ src: local('Bender'), url("/font/BenderLight.ttf");
+}
+@font-face {
+ font-family: 'JetBrains Mono';
+ src: local('JetBrains Mono'), url('/font/JetBrainsMono-Regular.woff2') format('woff2');
+}</style><meta name="generator" content="Hexo 5.3.0"><link rel="alternate" href="/atom.xml" title="镡乐Blog" type="application/atom+xml">
+</head><body><header><nav><a href="/">Home</a><a href="/archives/">Archives</a><a href="/about/">About</a><a href="/Links/">Links</a></nav></header><main><article><div id="post-bg"><div id="post-title"><div id="post-info"><span>date:<time datetime="2020-04-26T11:16:00.000Z" id="date"> 2020-04-26</time></span><br><span>updated:<time datetime="2021-04-27T10:01:51.705Z" id="updated"> 2021-04-27</time></span></div><h1>用Github来当博客图床</h1><hr></div><div id="post-content"><p>Link to this article: <a target="_blank" rel="noopener" href="https://hex.moe/p/ee3454a2/">https://hex.moe/p/ee3454a2/</a></p>
+<blockquote>
+<p>之前试过 sm.ms 觉得还不错,不过最近发现这个图床处于墙与不墙的薛定谔状态,而且也不是很好留档,所以决定使用Github来当作博客的图床</p>
+<a id="more"></a>
+</blockquote>
+<h1 id="一个图床软件-PicGo"><a href="#一个图床软件-PicGo" class="headerlink" title="一个图床软件 PicGo"></a>一个图床软件 PicGo</h1><h2 id="下载-PicGo"><a href="#下载-PicGo" class="headerlink" title="下载 PicGo"></a>下载 PicGo</h2><p>在这里</p>
+<blockquote>
+<p><a target="_blank" rel="noopener" href="https://github.com/Molunerfinn/PicGo/releases">https://github.com/Molunerfinn/PicGo/releases</a></p>
+</blockquote>
+<p>可以下载到PicGo的安装包</p>
+<h2 id="配置PicGo"><a href="#配置PicGo" class="headerlink" title="配置PicGo"></a>配置PicGo</h2><p>首先 新建一个仓库 名字随意</p>
+<p><img src="https://cdn.jsdelivr.net/gh/LovelyWei/PicGoData/20190824135003.png" alt="img"></p>
+<p>不用修改任何配置 创建</p>
+<p>创建完成后点击 <code>头像</code> 进入我的 <code>Settings</code> 点击 <code>Developer settings</code> 点击 <code>Personal access tokens</code></p>
+<blockquote>
+<p>点击这里可以直接进入: <a target="_blank" rel="noopener" href="https://github.com/settings/tokens">https://github.com/settings/tokens</a></p>
+</blockquote>
+<p>新建一个 <code>token</code> 点击 <code>Generate new token</code></p>
+<p><img src="https://cdn.jsdelivr.net/gh/LovelyWei/PicGoData/20190824135507.png" alt="img"></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs plain">Note&#96; 处填入名字 勾选 &#96;repo&#96; 让其有仓库管理权限 然后即可 点击&#96;Generate token&#96; 新建 &#96;token<br></code></pre></td></tr></table></figure>
+<p><img src="https://cdn.jsdelivr.net/gh/LovelyWei/PicGoData/20190824135716.png" alt="img"></p>
+<p>如图所示</p>
+<p>复制下 <code>token</code> 的值</p>
+<p>打开 <code>PicGo</code> 软件</p>
+<p><img src="https://cdn.jsdelivr.net/gh/LovelyWei/PicGoData/20190824135856.png" alt="img"></p>
+<p>点击Github设置</p>
+<p>设定仓库名设置为 <code>用户名/仓库名</code></p>
+<p>设定分支名设置为 <code>master</code></p>
+<p>设定Token设置为你刚刚复制下的Token</p>
+<p>设为默认图床 点击确定</p>
+<p>回到上传区 尝试上传图片 图片上传成功后 会自动将Markdown格式的图片链接放在你的剪贴板</p>
+<p><img src="https://cdn.jsdelivr.net/gh/LovelyWei/PicGoData/20190824140141.png" alt="img"></p>
+<p>完</p>
+<div id="paginator"></div></div><div id="post-footer"><hr><a href="/2020/04/26/%E5%88%A0%E9%99%A4%E6%89%80%E6%9C%89%E7%9A%84%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99/">← Prev 离职时如何完整的清理自己的电脑</a><span style="color: #fe2"> | </span><a href="/2020/04/26/%E7%A0%B4%E8%A7%A3%E7%94%B5%E8%84%91%E6%95%99%E5%AE%A4%E4%B8%8A%E7%BD%91%E9%99%90%E5%88%B6/">破解电脑教室上网限制 Next →</a><hr></div><div id="bottom-btn"><a id="to-index" href="#post-index" title="index">≡</a><a id="to-top" href="#post-title" title="to top">∧</a></div><details id="reward"><summary>打赏</summary><div id="alipay"><span>支付宝 | Alipay</span><br><img src="/img/Alipay.png"></div><div id="wechat"><span>微信 | WeChat</span><br><img src="/img/WeChat.png"></div></details><div id="Valine"></div><script>new Valine({
+ el: '#Valine'
+ , appId: 'feY44XamakIk0Ae6gN3OHwo3-gzGzoHsz'
+ , appKey: 'Cs0Xnnv7uCq96zOhPhxA6NGK'
+ , placeholder: '此条评论委托企鹅物流发送'
+})</script></div></article><aside><div id="about"><a href="/" id="logo"><img src="https://i.loli.net/2021/04/24/Wh4yNuYeE59rI7j.jpg" alt="Logo"></a><h1 id="Dr"><a href="/"> Dr.Tanle</a></h1><section id="total"><a id="total-archives" href="/archives"><span class="total-title">Archives Total:</span><span class="total-number">23</span></a><div id="total-tags"><span class="total-title">Tags:</span><span class="total-number">13</span></div><div id="total-categories"><span class="total-title">Categories:</span><span class="total-number">15</span></div></section></div><div id="aside-block"><h1>INDEX</h1><div id="post-index"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#%E4%B8%80%E4%B8%AA%E5%9B%BE%E5%BA%8A%E8%BD%AF%E4%BB%B6-PicGo"><span class="toc-number">1.</span> <span class="toc-text">一个图床软件 PicGo</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%B8%8B%E8%BD%BD-PicGo"><span class="toc-number">1.1.</span> <span class="toc-text">下载 PicGo</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E9%85%8D%E7%BD%AEPicGo"><span class="toc-number">1.2.</span> <span class="toc-text">配置PicGo</span></a></li></ol></li></ol></div></div><footer><nobr><span class="text-title">©</span><span class="text-content">2020-2021</span></nobr><wbr><nobr><span class="text-title">ICP</span><span class="text-content">——Git服务器——</span></nobr><wbr><wbr><nobr>published with&nbsp;<a target="_blank" rel="noopener" href="http://hexo.io">Hexo&nbsp;</a></nobr><wbr><nobr>Theme&nbsp;<a target="_blank" rel="noopener" href="https://github.com/Yue-plus/hexo-theme-arknights">Arknight&nbsp;</a></nobr><wbr><nobr>by&nbsp;<a target="_blank" rel="noopener" href="https://github.com/Yue-plus">Yue_plus</a></nobr></footer></aside></main><canvas id="canvas-dust"></canvas><script src="/js/arknights.js"></script><script src="https://cdn.bootcdn.net/ajax/libs/highlight.js/10.1.2/highlight.min.js"></script></body></html>
